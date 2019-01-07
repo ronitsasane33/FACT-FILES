@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+<color name="grey_300">#E0E0E0</color>
+<color name="color_white">#fefefe</color>
+
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorCyanFaint">#00e5e5</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="blacksup">#868686</color>
+
+    <color name="navyBlue">#13293c</color>
+    <color name="red">#d50000</color>
+    <color name="green">#067821</color>
+    <color name="popati">#8ae431</color>
+    <color name="bootInfoBlue">#5bc0de</color>
+
+    <color name="blueShade">#6600FF</color>
+    <color name="yellowDark">#ffae00</color>
+    <color name="yellow">#e1ff00</color>
+    <color name="violetDark">#a100ff</color>
+    <color name="violetDarksup">#29d2ca</color>
+
+    <color name="chocolate">#89410d</color>
+    <color name="chocolatesup">#d28e5d</color>
+
+    <color name="grey">#747474</color>
+    <color name="greysup">#baafa6</color>
+
+    <color name="pink">#ff0374</color>
+    <color name="pinksup">#774390</color>
+
+</resources>
